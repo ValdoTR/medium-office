@@ -384,7 +384,7 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"Is it an office? Is it an agency? Maybe it's a bureau or a workplace or even a lab... What we can assure you is that it feels right at home but for more than 15 people!"
+         "value":"Suitable up to 35 users.\n\nIf you have a smaller team, and just need a chill out office space where you can hangout with your colleagues and debate your most recent achievements this is the map for you."
         }, 
         {
          "name":"mapImage",
@@ -407,7 +407,7 @@
          "value":"script.js"
         }],
  "renderorder":"right-down",
- "tiledversion":"1.7.0",
+ "tiledversion":"1.7.1",
  "tileheight":32,
  "tilesets":[
         {
